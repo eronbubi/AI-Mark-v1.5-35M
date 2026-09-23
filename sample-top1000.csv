@@ -1,0 +1,1001 @@
+Rang,Modell,Entwickler,Score,Level
+1,Claude Opus 5.5,Anthropic,1000000000000.0,Frontier
+2,Claude Fable 5.1,Anthropic,996600000000.0,Frontier
+3,GPT-6 Astra Codex,OpenAI,989500000000.0,Frontier
+4,GPT-6 Astra,OpenAI,987300000000.0,Frontier
+5,Claude Opus 5,Anthropic,984200000000.0,Frontier
+6,Kimi K3,Moonshot AI,979400000000.0,Frontier
+7,GPT-5.6 Sol,OpenAI,520000000000.0,Frontier
+8,Claude Opus 5.5 Code v1 DE,Anthropic,510000000000.0,High
+9,Claude Fable 5.1 Code v1 DE,Anthropic,509999984739.0,High
+10,GPT-6 Astra Codex Code v1 DE,OpenAI,509999969478.0,High
+11,GPT-6 Astra Code v1 DE,OpenAI,509999954217.0,High
+12,Claude Opus 5 Code v1 DE,Anthropic,509999938956.0,High
+13,Kimi K3 Code v1 DE,Moonshot AI,509999923695.0,High
+14,GPT-5.6 Sol Code v1 DE,OpenAI,509999908434.0,High
+15,Claude Fable 5 Code v1 DE,Anthropic,509999898173.0,High
+16,GPT-5.6 Sol Codex Code v1 DE,OpenAI,509999882912.0,High
+17,Claude Opus 4.8 Code v1 DE,Anthropic,509999867651.0,High
+18,Claude Mythos Preview Code v1 DE,Anthropic,509999852390.0,High
+19,Claude Opus 4.7 Code v1 DE,Anthropic,509999837129.0,High
+20,DeepSeek V4 Pro (0813) Code v1 DE,DeepSeek,509999821868.0,High
+21,GLM-5.3 Code v1 EN,Z.ai,509999806607.0,High
+22,GPT-6 Astra (Frühinfo) Code v1 EN,OpenAI,509999796346.0,High
+23,Claude Opus 4.6 Code v1 EN,Anthropic,509999781085.0,High
+24,Gemini 3.1 Pro Code v1 EN,Google,509999765824.0,High
+25,GPT-5.4 (xHigh) Code v1 EN,OpenAI,509999750563.0,High
+26,Claude Sonnet 5 Code v1 EN,Anthropic,509999735302.0,High
+27,Qwen3.8 Max Code v1 EN,Alibaba,509999720041.0,High
+28,Grok 4.5 Code v1 EN,xAI,509999709780.0,High
+29,GPT-5.2 Codex Code v1 EN,OpenAI,509999694519.0,High
+30,Gemini 3 Pro Code v1 EN,Google,509999679258.0,High
+31,Claude Opus 4.5 Code v1 EN,Anthropic,509999663997.0,High
+32,Gemini 3 Flash Code v1 EN,Google,509999648736.0,High
+33,Claude Sonnet 4.5 Code v1 EN,Anthropic,509999633475.0,High
+34,GPT-5.1 Codex Code v1 FR,OpenAI,509999618214.0,High
+35,MiniMax M2.5 Code v1 FR,MiniMax,509999607953.0,High
+36,GLM-5 / GLM-5.2 Code v1 FR,Z.ai,509999592692.0,High
+37,Kimi K2.5 Code v1 FR,China-Labs,509999577431.0,High
+38,DeepSeek V3.2 Code v1 FR,DeepSeek,509999562170.0,High
+39,Claude Haiku 4.5 Code v1 FR,Anthropic,509999546909.0,High
+40,Qwen3.5 Code v1 FR,Alibaba,509999531648.0,High
+41,GPT-5.3 Codex Code v1 FR,OpenAI,509999521387.0,High
+42,Qwen3.8 Flash-Next Code v1 FR,Alibaba,509999506126.0,High
+43,Muse Spark 1.1 Code v1 FR,Meta,509999490865.0,High
+44,Muse Spark 1.3 Code v1 FR,Meta,509999475604.0,High
+45,Claude Opus 4.1 Code v1 FR,Anthropic,509999460343.0,High
+46,GPT-5 Code v1 FR,OpenAI,509999445082.0,High
+47,Gemini 3 Flash Preview Code v1 ES,Google,509999429821.0,High
+48,DeepSeek V3.1 Code v1 ES,DeepSeek,509999419560.0,High
+49,Qwen3 Coder 480B Code v1 ES,Alibaba,509999404299.0,High
+50,Kimi K2 Thinking Code v1 ES,China-Labs,509999389038.0,High
+51,Grok Code Fast 1 Code v1 ES,xAI,509999373777.0,High
+52,GPT-5 mini Code v1 ES,OpenAI,509999358516.0,High
+53,Claude Sonnet 4 Code v1 ES,Anthropic,509999343255.0,High
+54,Gemini 2.5 Pro Code v1 ES,Google,509999332994.0,High
+55,DeepSeek R1 Code v1 ES,DeepSeek,509999317733.0,High
+56,Qwen3 235B Code v1 ES,Alibaba,509999302472.0,High
+57,Llama 4 Maverick Code v1 ES,Meta,509999287211.0,High
+58,Nemotron Super 49B Code v1 ES,NVIDIA,509999271950.0,High
+59,Devstral Large Code v1 ES,Mistral,509999256689.0,High
+60,Codestral 2 Code v1 ZH,Mistral,509999241428.0,High
+61,GPT-4.1 Code v1 ZH,OpenAI,509999231167.0,High
+62,o3 Code v1 ZH,OpenAI,509999215906.0,High
+63,o1-pro Code v1 ZH,OpenAI,509999200645.0,High
+64,Qwen 7B Code v1 ZH,Alibaba,509999185384.0,High
+65,Qwen 14B Code v1 ZH,Alibaba,509999170123.0,High
+66,Qwen 72B Code v1 ZH,Alibaba,509999154862.0,High
+67,Qwen1.5 0.5B Code v1 ZH,Alibaba,509999139601.0,High
+68,Qwen1.5 1.8B Code v1 ZH,Alibaba,509999129340.0,High
+69,Qwen1.5 4B Code v1 ZH,Alibaba,509999114079.0,High
+70,Qwen1.5 7B Code v1 ZH,Alibaba,509999098818.0,High
+71,Qwen1.5 14B Code v1 ZH,Alibaba,509999083557.0,High
+72,Qwen1.5 32B Code v1 ZH,Alibaba,509999068296.0,High
+73,Qwen1.5 72B Code v1 JA,Alibaba,509999053035.0,High
+74,Qwen1.5 110B Code v1 JA,Alibaba,509999042774.0,High
+75,Qwen2 0.5B Code v1 JA,Alibaba,509999027513.0,High
+76,Qwen2 1.5B Code v1 JA,Alibaba,509999012252.0,High
+77,Qwen2 7B Code v1 JA,Alibaba,509998996991.0,High
+78,Qwen2 57B-A14B Code v1 JA,Alibaba,509998981730.0,High
+79,Qwen2 72B Code v1 JA,Alibaba,509998966469.0,High
+80,Qwen2.5 0.5B Code v1 JA,Alibaba,509998951208.0,High
+81,Qwen2.5 1.5B Code v1 JA,Alibaba,509998940947.0,High
+82,Qwen2.5 3B Code v1 JA,Alibaba,509998925686.0,High
+83,Qwen2.5 7B Code v1 JA,Alibaba,509998910425.0,High
+84,Qwen2.5 14B Code v1 JA,Alibaba,509998895164.0,High
+85,Qwen2.5 32B Code v1 JA,Alibaba,509998879903.0,High
+86,Qwen2.5 72B Code v1 AR,Alibaba,509998864642.0,High
+87,Qwen2.5-Coder 0.5B Code v1 AR,Alibaba,509998854381.0,High
+88,Qwen2.5-Coder 1.5B Code v1 AR,Alibaba,509998839120.0,High
+89,Qwen2.5-Coder 3B Code v1 AR,Alibaba,509998823859.0,High
+90,Qwen2.5-Coder 7B Code v1 AR,Alibaba,509998808598.0,High
+91,Qwen2.5-Coder 14B Code v1 AR,Alibaba,509998793337.0,High
+92,Qwen2.5-Coder 32B Code v1 AR,Alibaba,509998778076.0,High
+93,Qwen3 0.6B Code v1 AR,Alibaba,509998762815.0,High
+94,Qwen3 1.7B Code v1 AR,Alibaba,509998752554.0,High
+95,Qwen3 4B Code v1 AR,Alibaba,509998737293.0,High
+96,Qwen3 8B Code v1 AR,Alibaba,509998722032.0,High
+97,Qwen3 14B Code v1 AR,Alibaba,509998706771.0,High
+98,Qwen3 30B-A3B Code v1 AR,Alibaba,509998691510.0,High
+99,Qwen3 32B Code v1 HI,Alibaba,509998676249.0,High
+100,Qwen3 235B-A22B Code v1 HI,Alibaba,509998665988.0,High
+101,Qwen3-Coder 30B-A3B Code v1 HI,Alibaba,509998650727.0,High
+102,Qwen3-Coder 480B-A35B Code v1 HI,Alibaba,509998635466.0,High
+103,Qwen3.5 27B Code v1 HI,Alibaba,509998620205.0,High
+104,Qwen3.8 27B Code v1 HI,Alibaba,509998604944.0,High
+105,Qwen2.5-Math 1.5B Code v1 HI,Alibaba,509998589683.0,High
+106,Qwen2.5-Math 7B Code v1 HI,Alibaba,509998574422.0,High
+107,Qwen2.5-Math 72B Code v1 HI,Alibaba,509998564161.0,High
+108,Qwen2-VL 2B Code v1 HI,Alibaba,509998548900.0,High
+109,Qwen2-VL 7B Code v1 HI,Alibaba,509998533639.0,High
+110,Qwen2-VL 72B Code v1 HI,Alibaba,509998518378.0,High
+111,Qwen2.5-VL 3B Code v1 HI,Alibaba,509998503117.0,High
+112,Qwen2.5-VL 7B Code v1 PT,Alibaba,509998487856.0,High
+113,Qwen2.5-VL 32B Code v1 PT,Alibaba,509998472595.0,High
+114,Qwen2.5-VL 72B Code v1 PT,Alibaba,509998462334.0,High
+115,CodeQwen1.5 7B Code v1 PT,Alibaba,509998447073.0,High
+116,Llama 7B Code v1 PT,Meta,509998431812.0,High
+117,Llama 13B Code v1 PT,Meta,509998416551.0,High
+118,Llama 30B Code v1 PT,Meta,509998401290.0,High
+119,Llama 65B Code v1 PT,Meta,509998386029.0,High
+120,Llama 2 7B Code v1 PT,Meta,509998375768.0,High
+121,Llama 2 13B Code v1 PT,Meta,509998360507.0,High
+122,Llama 2 34B Code v1 PT,Meta,509998345246.0,High
+123,Llama 2 70B Code v1 PT,Meta,509998329985.0,High
+124,Llama 3 8B Code v1 PT,Meta,509998314724.0,High
+125,Llama 3 70B Code v1 RU,Meta,509998299463.0,High
+126,Llama 3.1 8B Code v1 RU,Meta,509998284202.0,High
+127,Llama 3.1 70B Code v1 RU,Meta,509998273941.0,High
+128,Llama 3.1 405B Code v1 RU,Meta,509998258680.0,High
+129,Llama 3.2 1B Code v1 RU,Meta,509998243419.0,High
+130,Llama 3.2 3B Code v1 RU,Meta,509998228158.0,High
+131,Llama 3.2 11B-Vision Code v1 RU,Meta,509998212897.0,High
+132,Llama 3.2 90B-Vision Code v1 RU,Meta,509998197636.0,High
+133,Llama 3.3 70B Code v1 RU,Meta,509998187375.0,High
+134,Llama 4 Scout Code v1 RU,Meta,509998172114.0,High
+135,Llama 4 Scout 109B Code v1 RU,Meta,509998156853.0,High
+136,Llama 4 Maverick 400B Code v1 RU,Meta,509998141592.0,High
+137,Code Llama 7B Code v1 RU,Meta,509998126331.0,High
+138,Code Llama 13B Code v1 IT,Meta,509998111070.0,High
+139,Code Llama 34B Code v1 IT,Meta,509998095809.0,High
+140,Code Llama 70B Code v1 IT,Meta,509998085548.0,High
+141,Code Llama Python 7B Code v1 IT,Meta,509998070287.0,High
+142,Code Llama Python 13B Code v1 IT,Meta,509998055026.0,High
+143,Code Llama Python 34B Code v1 IT,Meta,509998039765.0,High
+144,Code Llama Instruct 7B Code v1 IT,Meta,509998024504.0,High
+145,Code Llama Instruct 13B Code v1 IT,Meta,509998009243.0,High
+146,Code Llama Instruct 34B Code v1 IT,Meta,509997998982.0,High
+147,Code Llama Instruct 70B Code v1 IT,Meta,509997983721.0,High
+148,Gemma 2B Code v1 IT,Google,509997968460.0,High
+149,Gemma 7B Code v1 IT,Google,509997953199.0,High
+150,Gemma 2 2B Code v1 IT,Google,509997937938.0,High
+151,Gemma 2 9B Code v1 NL,Google,509997922677.0,High
+152,Gemma 2 27B Code v1 NL,Google,509997907416.0,High
+153,Gemma 3 1B Code v1 NL,Google,509997897155.0,High
+154,Gemma 3 4B Code v1 NL,Google,509997881894.0,High
+155,Gemma 3 12B Code v1 NL,Google,509997866633.0,High
+156,Gemma 3 27B Code v1 NL,Google,509997851372.0,High
+157,Gemma 3n E2B Code v1 NL,Google,509997836111.0,High
+158,Gemma 3n E4B Code v1 NL,Google,509997820850.0,High
+159,CodeGemma 2B Code v1 NL,Google,509997805589.0,High
+160,CodeGemma 7B Code v1 NL,Google,509997795328.0,High
+161,PaLM 2 Code v1 NL,Google,509997780067.0,High
+162,PaLM 2 Codey Code v1 NL,Google,509997764806.0,High
+163,Bard (LaMDA) Code v1 NL,Google,509997749545.0,High
+164,Bard (PaLM 2) Code v1 PL,Google,509997734284.0,High
+165,Gemini 1.0 Pro Code v1 PL,Google,509997719023.0,High
+166,Gemini 1.0 Ultra Code v1 PL,Google,509997708762.0,High
+167,Gemini 1.5 Flash Code v1 PL,Google,509997693501.0,High
+168,Gemini 1.5 Flash-8B Code v1 PL,Google,509997678240.0,High
+169,Gemini 1.5 Pro Code v1 PL,Google,509997662979.0,High
+170,Gemini 2.0 Flash Code v1 PL,Google,509997647718.0,High
+171,Gemini 2.0 Flash-Lite Code v1 PL,Google,509997632457.0,High
+172,Gemini 2.0 Pro Code v1 PL,Google,509997617196.0,High
+173,Gemini 2.5 Flash Code v1 PL,Google,509997606935.0,High
+174,Gemini 2.5 Flash-Lite Code v1 PL,Google,509997591674.0,High
+175,Gemini 2.5 Deep Think Code v1 PL,Google,509997576413.0,High
+176,Gemini 3 Deep Think Code v1 PL,Google,509997561152.0,High
+177,Mistral 7B v0.1 Code v1 TR,Mistral,509997545891.0,High
+178,Mistral 7B v0.2 Code v1 TR,Mistral,509997530630.0,High
+179,Mistral 7B v0.3 Code v1 TR,Mistral,509997520369.0,High
+180,Mixtral 8x7B v0.1 Code v1 TR,Mistral,509997505108.0,High
+181,Mixtral 8x22B Code v1 TR,Mistral,509997489847.0,High
+182,Mistral Small 8B Code v1 TR,Mistral,509997474586.0,High
+183,Mistral Small 22B Code v1 TR,Mistral,509997459325.0,High
+184,Mistral Small 3.1 24B Code v1 TR,Mistral,509997444064.0,High
+185,Mistral Medium 2024 Code v1 TR,Mistral,509997428803.0,High
+186,Mistral Medium 3 Code v1 TR,Mistral,509997418542.0,High
+187,Mistral Large 2024 Code v1 TR,Mistral,509997403281.0,High
+188,Mistral Large 2 (123B) Code v1 TR,Mistral,509997388020.0,High
+189,Mistral Large 3 (41B) Code v1 TR,Mistral,509997372759.0,High
+190,Codestral 22B Code v1 KO,Mistral,509997357498.0,High
+191,Codestral Mamba 7B Code v1 KO,Mistral,509997342237.0,High
+192,Codestral 25.01 Code v1 KO,Mistral,509997331976.0,High
+193,Devstral Small 24B Code v1 KO,Mistral,509997316715.0,High
+194,Devstral Medium Code v1 KO,Mistral,509997301454.0,High
+195,Mathstral 7B Code v1 KO,Mistral,509997286193.0,High
+196,Pixtral 12B Code v1 KO,Mistral,509997270932.0,High
+197,Magistral Small Code v1 KO,Mistral,509997255671.0,High
+198,Magistral Medium Code v1 KO,Mistral,509997240410.0,High
+199,Mistral NeMo 12B Code v1 KO,Mistral,509997230149.0,High
+200,Mixtral 8x7B Instruct Code v1 KO,Mistral,509997214888.0,High
+201,Mistral 7B Instruct v0.2 Code v1 KO,Mistral,509997199627.0,High
+202,Phi-1 Code v1 KO,Microsoft,509997184366.0,High
+203,Phi-1.5 Code v1 SV,Microsoft,509997169105.0,High
+204,Phi-2 Code v1 SV,Microsoft,509997153844.0,High
+205,Phi-3 mini 3.8B Code v1 SV,Microsoft,509997138583.0,High
+206,Phi-3 small 7B Code v1 SV,Microsoft,509997128322.0,High
+207,Phi-3 medium 14B Code v1 SV,Microsoft,509997113061.0,High
+208,Phi-3.5 mini Code v1 SV,Microsoft,509997097800.0,High
+209,Phi-3.5 MoE Code v1 SV,Microsoft,509997082539.0,High
+210,Phi-3.5 Vision Code v1 SV,Microsoft,509997067278.0,High
+211,Phi-4 14B Code v1 SV,Microsoft,509997052017.0,High
+212,Phi-4 mini Code v1 SV,Microsoft,509997041756.0,High
+213,Phi-4 multimodal Code v1 SV,Microsoft,509997026495.0,High
+214,Phi-4 reasoning Code v1 SV,Microsoft,509997011234.0,High
+215,Phi-4 reasoning+ Code v1 SV,Microsoft,509996995973.0,High
+216,WizardLM 7B Code v1 NO,Microsoft,509996980712.0,High
+217,WizardLM 13B Code v1 NO,Microsoft,509996965451.0,High
+218,WizardLM 70B Code v1 NO,Microsoft,509996950190.0,High
+219,WizardCoder 15B Code v1 NO,Microsoft,509996939929.0,High
+220,WizardCoder 33B Code v1 NO,Microsoft,509996924668.0,High
+221,WizardCoder Python 7B Code v1 NO,Microsoft,509996909407.0,High
+222,WizardCoder Python 13B Code v1 NO,Microsoft,509996894146.0,High
+223,WizardCoder Python 34B Code v1 NO,Microsoft,509996878885.0,High
+224,Orca 7B Code v1 NO,Microsoft,509996863624.0,High
+225,Orca 13B Code v1 NO,Microsoft,509996853363.0,High
+226,Orca 2 7B Code v1 NO,Microsoft,509996838102.0,High
+227,Orca 2 13B Code v1 NO,Microsoft,509996822841.0,High
+228,StarCoder 1B Code v1 NO,BigCode/Salesforce,509996807580.0,High
+229,StarCoder 3B Code v1 DA,BigCode/Salesforce,509996792319.0,High
+230,StarCoder 7B Code v1 DA,BigCode/Salesforce,509996777058.0,High
+231,StarCoder 15.5B Code v1 DA,BigCode/Salesforce,509996761797.0,High
+232,StarCoder2 3B Code v1 DA,BigCode/Salesforce,509996751536.0,High
+233,StarCoder2 7B Code v1 DA,BigCode/Salesforce,509996736275.0,High
+234,StarCoder2 15B Code v1 DA,BigCode/Salesforce,509996721014.0,High
+235,StarCoderBase 1B Code v1 DA,BigCode/Salesforce,509996705753.0,High
+236,StarCoderBase 3B Code v1 DA,BigCode/Salesforce,509996690492.0,High
+237,StarCoderBase 7B Code v1 DA,BigCode/Salesforce,509996675231.0,High
+238,StarCoderBase 15.5B Code v1 DA,BigCode/Salesforce,509996664970.0,High
+239,SantaCoder 1.1B Code v1 DA,BigCode/Salesforce,509996649709.0,High
+240,CodeGen 350M Code v1 DA,BigCode/Salesforce,509996634448.0,High
+241,CodeGen 2B Code v1 DA,BigCode/Salesforce,509996619187.0,High
+242,CodeGen 6B Code v1 FI,BigCode/Salesforce,509996603926.0,High
+243,CodeGen 16B Code v1 FI,BigCode/Salesforce,509996588665.0,High
+244,CodeGen2 1B Code v1 FI,BigCode/Salesforce,509996573404.0,High
+245,CodeGen2 3.7B Code v1 FI,BigCode/Salesforce,509996563143.0,High
+246,CodeGen2 7B Code v1 FI,BigCode/Salesforce,509996547882.0,High
+247,CodeGen2 16B Code v1 FI,BigCode/Salesforce,509996532621.0,High
+248,CodeT5 60M Code v1 FI,BigCode/Salesforce,509996517360.0,High
+249,CodeT5 220M Code v1 FI,BigCode/Salesforce,509996502099.0,High
+250,CodeT5 770M Code v1 FI,BigCode/Salesforce,509996486838.0,High
+251,CodeT5+ 220M Code v1 FI,BigCode/Salesforce,509996471577.0,High
+252,CodeT5+ 770M Code v1 FI,BigCode/Salesforce,509996461316.0,High
+253,CodeT5+ 2B Code v1 FI,BigCode/Salesforce,509996446055.0,High
+254,CodeT5+ 6B Code v1 FI,BigCode/Salesforce,509996430794.0,High
+255,CodeT5+ 16B Code v1 CS,BigCode/Salesforce,509996415533.0,High
+256,CodeBERT base Code v1 CS,BigCode/Salesforce,509996400272.0,High
+257,GraphCodeBERT Code v1 CS,BigCode/Salesforce,509996385011.0,High
+258,PLBART base Code v1 CS,BigCode/Salesforce,509996374750.0,High
+259,PLBART large Code v1 CS,BigCode/Salesforce,509996359489.0,High
+260,CodeReviewer Code v1 CS,BigCode/Salesforce,509996344228.0,High
+261,CodeRetriever Code v1 CS,BigCode/Salesforce,509996328967.0,High
+262,DeepSeek Coder 1.3B Code v1 CS,DeepSeek,509996313706.0,High
+263,DeepSeek Coder 6.7B Code v1 CS,DeepSeek,509996298445.0,High
+264,DeepSeek Coder 33B Code v1 CS,DeepSeek,509996283184.0,High
+265,DeepSeek Coder V2 16B Code v1 CS,DeepSeek,509996272923.0,High
+266,DeepSeek Coder V2 236B Code v1 CS,DeepSeek,509996257662.0,High
+267,DeepSeek LLM 7B Code v1 CS,DeepSeek,509996242401.0,High
+268,DeepSeek LLM 67B Code v1 EL,DeepSeek,509996227140.0,High
+269,DeepSeek Math 7B Code v1 EL,DeepSeek,509996211879.0,High
+270,DeepSeek V2 Code v1 EL,DeepSeek,509996196618.0,High
+271,DeepSeek V2.5 Code v1 EL,DeepSeek,509996186357.0,High
+272,DeepSeek V3 Code v1 EL,DeepSeek,509996171096.0,High
+273,DeepSeek R1-Distill Qwen 1.5B Code v1 EL,DeepSeek,509996155835.0,High
+274,DeepSeek R1-Distill Qwen 7B Code v1 EL,DeepSeek,509996140574.0,High
+275,DeepSeek R1-Distill Qwen 14B Code v1 EL,DeepSeek,509996125313.0,High
+276,DeepSeek R1-Distill Qwen 32B Code v1 EL,DeepSeek,509996110052.0,High
+277,DeepSeek R1-Distill Llama 8B Code v1 EL,DeepSeek,509996094791.0,High
+278,DeepSeek R1-Distill Llama 70B Code v1 EL,DeepSeek,509996084530.0,High
+279,DeepSeek Janus Pro 7B Code v1 EL,DeepSeek,509996069269.0,High
+280,Codex 12B (code-davinci-002) Code v1 EL,OpenAI,509996054008.0,High
+281,code-davinci-002 Code v1 HE,OpenAI,509996038747.0,High
+282,code-cushman-001 Code v1 HE,OpenAI,509996023486.0,High
+283,GPT-3.5 Turbo 0301 Code v1 HE,OpenAI,509996008225.0,High
+284,GPT-3.5 Turbo 0613 Code v1 HE,OpenAI,509995997964.0,High
+285,GPT-3.5 Turbo 1106 Code v1 HE,OpenAI,509995982703.0,High
+286,GPT-3.5 Turbo 0125 Code v1 HE,OpenAI,509995967442.0,High
+287,GPT-4 0314 Code v1 HE,OpenAI,509995952181.0,High
+288,GPT-4 0613 Code v1 HE,OpenAI,509995936920.0,High
+289,GPT-4 1106-preview Code v1 HE,OpenAI,509995921659.0,High
+290,GPT-4 Turbo 0125 Code v1 HE,OpenAI,509995906398.0,High
+291,GPT-4 Turbo 0409 Code v1 HE,OpenAI,509995896137.0,High
+292,GPT-4o 2024-05-13 Code v1 HE,OpenAI,509995880876.0,High
+293,GPT-4o 2024-08-06 Code v1 HE,OpenAI,509995865615.0,High
+294,GPT-4o 2024-11-20 Code v1 TH,OpenAI,509995850354.0,High
+295,GPT-4o mini 2024-07-18 Code v1 TH,OpenAI,509995835093.0,High
+296,GPT-4.1 mini Code v1 TH,OpenAI,509995819832.0,High
+297,GPT-4.1 nano Code v1 TH,OpenAI,509995804571.0,High
+298,o1-mini Code v1 TH,OpenAI,509995794310.0,High
+299,o1-preview Code v1 TH,OpenAI,509995779049.0,High
+300,o1 Code v1 TH,OpenAI,509995763788.0,High
+301,o3-mini Code v1 TH,OpenAI,509995748527.0,High
+302,o3-mini-high Code v1 TH,OpenAI,509995733266.0,High
+303,o4-mini Code v1 TH,OpenAI,509995718005.0,High
+304,GPT-4.5 Orion Code v1 TH,OpenAI,509995707744.0,High
+305,GPT-5 nano Code v1 TH,OpenAI,509995692483.0,High
+306,GPT-5 Codex mini Code v1 TH,OpenAI,509995677222.0,High
+307,GPT-5.1 Code v1 VI,OpenAI,509995661961.0,High
+308,GPT-5.1 Codex Max Code v1 VI,OpenAI,509995646700.0,High
+309,GPT-5.2 Code v1 VI,OpenAI,509995631439.0,High
+310,GPT-5.3 Code v1 VI,OpenAI,509995616178.0,High
+311,GPT-5.4 Code v1 VI,OpenAI,509995605917.0,High
+312,Codex CLI 2025 Code v1 VI,OpenAI,509995590656.0,High
+313,Codex mini Code v1 VI,OpenAI,509995575395.0,High
+314,Claude Instant 1.2 Code v1 VI,Anthropic,509995560134.0,High
+315,Claude 1 Code v1 VI,Anthropic,509995544873.0,High
+316,Claude 2.0 Code v1 VI,Anthropic,509995529612.0,High
+317,Claude 2.1 Code v1 VI,Anthropic,509995519351.0,High
+318,Claude 3 Haiku Code v1 VI,Anthropic,509995504090.0,High
+319,Claude 3 Sonnet Code v1 VI,Anthropic,509995488829.0,High
+320,Claude 3 Opus Code v1 DE,Anthropic,509995473568.0,High
+321,Claude 3.5 Sonnet 2024-06-20 Code v1 DE,Anthropic,509995458307.0,High
+322,Claude 3.5 Sonnet 2024-10-22 Code v1 DE,Anthropic,509995443046.0,High
+323,Claude 3.5 Haiku Code v1 DE,Anthropic,509995427785.0,High
+324,Claude 3.7 Sonnet Code v1 DE,Anthropic,509995417524.0,High
+325,Claude 4 Sonnet Code v1 DE,Anthropic,509995402263.0,High
+326,Claude 4 Opus Code v1 DE,Anthropic,509995387002.0,High
+327,Claude 4.1 Opus Code v1 DE,Anthropic,509995371741.0,High
+328,Claude 4.1 Sonnet Code v1 DE,Anthropic,509995356480.0,High
+329,Claude Haiku 3.5 Code v1 DE,Anthropic,509995341219.0,High
+330,Claude Sonnet 4.6 Code v1 DE,Anthropic,509995330958.0,High
+331,Claude Haiku 4 Code v1 DE,Anthropic,509995315697.0,High
+332,Claude Agent SDK Sonnet Code v1 DE,Anthropic,509995300436.0,High
+333,Grok-1 Code v1 EN,xAI,509995285175.0,High
+334,Grok-1.5 Code v1 EN,xAI,509995269914.0,High
+335,Grok-1.5V Code v1 EN,xAI,509995254653.0,High
+336,Grok-2 Code v1 EN,xAI,509995239392.0,High
+337,Grok-2 mini Code v1 EN,xAI,509995229131.0,High
+338,Grok-3 Code v1 EN,xAI,509995213870.0,High
+339,Grok-3 mini Code v1 EN,xAI,509995198609.0,High
+340,Grok-4 Code v1 EN,xAI,509995183348.0,High
+341,Grok-4 Heavy Code v1 EN,xAI,509995168087.0,High
+342,Grok-4.1 Code v1 EN,xAI,509995152826.0,High
+343,Grok Code Fast Code v1 EN,xAI,509995137565.0,High
+344,Grok Build 0.1 Code v1 EN,xAI,509995127304.0,High
+345,"Aurora (Grok image, code-adjacent) Code v1 EN",xAI,509995112043.0,High
+346,GLM-4 Code v1 FR,China-Labs,509995096782.0,High
+347,GLM-4 Air Code v1 FR,China-Labs,509995081521.0,High
+348,GLM-4 Flash Code v1 FR,China-Labs,509995066260.0,High
+349,GLM-4 Plus Code v1 FR,China-Labs,509995050999.0,High
+350,GLM-4.5 Code v1 FR,China-Labs,509995040738.0,High
+351,GLM-4.5 Air Code v1 FR,China-Labs,509995025477.0,High
+352,GLM-4.6 Code v1 FR,China-Labs,509995010216.0,High
+353,GLM-5 Code v1 FR,China-Labs,509994994955.0,High
+354,GLM-5.2 Code v1 FR,China-Labs,509994979694.0,High
+355,GLM Coding Plan Code v1 FR,China-Labs,509994964433.0,High
+356,CodeGeeX 6B Code v1 FR,China-Labs,509994949172.0,High
+357,CodeGeeX2 6B Code v1 FR,China-Labs,509994938911.0,High
+358,CodeGeeX4 9B Code v1 FR,China-Labs,509994923650.0,High
+359,Kimi K1.5 Code v1 ES,China-Labs,509994908389.0,High
+360,Kimi K2 1T Code v1 ES,China-Labs,509994893128.0,High
+361,Kimi K2 0905 Code v1 ES,China-Labs,509994877867.0,High
+362,MiniMax M1 Code v1 ES,China-Labs,509994862606.0,High
+363,MiniMax M2 Code v1 ES,China-Labs,509994852345.0,High
+364,MiniMax M2.1 Code v1 ES,China-Labs,509994837084.0,High
+365,MiniMax Text-01 Code v1 ES,China-Labs,509994821823.0,High
+366,MiniMax 01 Code v1 ES,China-Labs,509994806562.0,High
+367,Nemotron 4 15B Code v1 ES,NVIDIA,509994791301.0,High
+368,Nemotron 4 340B Code v1 ES,NVIDIA,509994776040.0,High
+369,Nemotron 70B Code v1 ES,NVIDIA,509994760779.0,High
+370,Nemotron Nano 8B Code v1 ES,NVIDIA,509994750518.0,High
+371,Nemotron Ultra 253B Code v1 ES,NVIDIA,509994735257.0,High
+372,Nemotron 3 Nano 30B Code v1 ZH,NVIDIA,509994719996.0,High
+373,Nemotron 3 Super 49B Code v1 ZH,NVIDIA,509994704735.0,High
+374,Nemotron 3 Ultra 253B Code v1 ZH,NVIDIA,509994689474.0,High
+375,Nemotron 4 Mini Hindi 4B Code v1 ZH,NVIDIA,509994674213.0,High
+376,CodeGemma-NV Code v1 ZH,NVIDIA,509994663952.0,High
+377,NVLM 72B Code v1 ZH,NVIDIA,509994648691.0,High
+378,StarCoder2 15B-NV Code v1 ZH,NVIDIA,509994633430.0,High
+379,Llama 3.1 Nemotron 8B Code v1 ZH,NVIDIA,509994618169.0,High
+380,Llama 3.1 Nemotron 70B Code v1 ZH,NVIDIA,509994602908.0,High
+381,Llama 3.1 Nemotron Ultra 253B Code v1 ZH,NVIDIA,509994587647.0,High
+382,Nemotron-CC Code v1 ZH,NVIDIA,509994572386.0,High
+383,Nemotron-PAR Code v1 ZH,NVIDIA,509994562125.0,High
+384,Granite 3B Code Code v1 ZH,IBM,509994546864.0,High
+385,Granite 8B Code Code v1 JA,IBM,509994531603.0,High
+386,Granite 20B Code Code v1 JA,IBM,509994516342.0,High
+387,Granite 34B Code Code v1 JA,IBM,509994501081.0,High
+388,Granite 3.0 2B Code v1 JA,IBM,509994485820.0,High
+389,Granite 3.0 8B Code v1 JA,IBM,509994470559.0,High
+390,Granite 3.1 2B Code v1 JA,IBM,509994460298.0,High
+391,Granite 3.1 8B Code v1 JA,IBM,509994445037.0,High
+392,Granite 3.2 2B Code v1 JA,IBM,509994429776.0,High
+393,Granite 3.2 8B Code v1 JA,IBM,509994414515.0,High
+394,Granite 3.3 2B Code v1 JA,IBM,509994399254.0,High
+395,Granite 4.0 Micro Code v1 JA,IBM,509994383993.0,High
+396,Granite 4.0 Small Code v1 JA,IBM,509994373732.0,High
+397,Granite Guardian 3.1 2B Code v1 JA,IBM,509994358471.0,High
+398,Granite Guardian 3.1 8B Code v1 AR,IBM,509994343210.0,High
+399,Command Code v1 AR,Cohere,509994327949.0,High
+400,Command Light Code v1 AR,Cohere,509994312688.0,High
+401,Command R Code v1 AR,Cohere,509994297427.0,High
+402,Command R 08-2024 Code v1 AR,Cohere,509994282166.0,High
+403,Command R+ Code v1 AR,Cohere,509994271905.0,High
+404,Command R+ 08-2024 Code v1 AR,Cohere,509994256644.0,High
+405,Command A Code v1 AR,Cohere,509994241383.0,High
+406,Command A Vision Code v1 AR,Cohere,509994226122.0,High
+407,Command A Translate Code v1 AR,Cohere,509994210861.0,High
+408,Command A Reasoning Code v1 AR,Cohere,509994195600.0,High
+409,Cohere Embed-era Code Code v1 AR,Cohere,509994185339.0,High
+410,C4AI Command R7B Code v1 AR,Cohere,509994170078.0,High
+411,Command R7B Code v1 HI,Cohere,509994154817.0,High
+412,Falcon 7B Code v1 HI,Diverse,509994139556.0,High
+413,Falcon 40B Code v1 HI,Diverse,509994124295.0,High
+414,Falcon 180B Code v1 HI,Diverse,509994109034.0,High
+415,Falcon 3 1B Code v1 HI,Diverse,509994093773.0,High
+416,Falcon 3 3B Code v1 HI,Diverse,509994083512.0,High
+417,Falcon 3 7B Code v1 HI,Diverse,509994068251.0,High
+418,Falcon 3 10B Code v1 HI,Diverse,509994052990.0,High
+419,MPT 7B Code v1 HI,Diverse,509994037729.0,High
+420,MPT 7B-8k Code v1 HI,Diverse,509994022468.0,High
+421,MPT 30B Code v1 HI,Diverse,509994007207.0,High
+422,MPT Code Clippy Code v1 HI,Diverse,509993996946.0,High
+423,Dolly 3B Code v1 HI,Diverse,509993981685.0,High
+424,Dolly 7B Code v1 PT,Diverse,509993966424.0,High
+425,Dolly 12B Code v1 PT,Diverse,509993951163.0,High
+426,DBRX Instruct Code v1 PT,Diverse,509993935902.0,High
+427,MiMo 7B Code v1 PT,Diverse,509993920641.0,High
+428,Yi 6B Code v1 PT,Diverse,509993905380.0,High
+429,Yi 9B Code v1 PT,Diverse,509993895119.0,High
+430,Yi 34B Code v1 PT,Diverse,509993879858.0,High
+431,Yi Coder 1.5B Code v1 PT,Diverse,509993864597.0,High
+432,Yi Coder 9B Code v1 PT,Diverse,509993849336.0,High
+433,Yi 1.5 6B Code v1 PT,Diverse,509993834075.0,High
+434,Yi 1.5 9B Code v1 PT,Diverse,509993818814.0,High
+435,Yi 1.5 34B Code v1 PT,Diverse,509993803553.0,High
+436,InternLM 7B Code v1 PT,Diverse,509993793292.0,High
+437,InternLM 20B Code v1 RU,Diverse,509993778031.0,High
+438,InternLM2 7B Code v1 RU,Diverse,509993762770.0,High
+439,InternLM2 20B Code v1 RU,Diverse,509993747509.0,High
+440,InternLM2.5 7B Code v1 RU,Diverse,509993732248.0,High
+441,InternLM3 8B Code v1 RU,Diverse,509993716987.0,High
+442,InternLM-XComposer Code v1 RU,Diverse,509993706726.0,High
+443,Baichuan 7B Code v1 RU,Diverse,509993691465.0,High
+444,Baichuan 13B Code v1 RU,Diverse,509993676204.0,High
+445,Baichuan2 7B Code v1 RU,Diverse,509993660943.0,High
+446,Baichuan2 13B Code v1 RU,Diverse,509993645682.0,High
+447,Skywork 8B Code v1 RU,Diverse,509993630421.0,High
+448,Skywork 13B Code v1 RU,Diverse,509993615160.0,High
+449,XVERSE 7B Code v1 RU,Diverse,509993604899.0,High
+450,XVERSE 13B Code v1 IT,Diverse,509993589638.0,High
+451,Aquila 7B Code v1 IT,Diverse,509993574377.0,High
+452,AquilaChat 7B Code v1 IT,Diverse,509993559116.0,High
+453,AquilaCode 7B Code v1 IT,Diverse,509993543855.0,High
+454,DeepSeek-QLoRA-era OpenChat Code v1 IT,Diverse,509993528594.0,High
+455,OpenChat 3.5 7B Code v1 IT,Diverse,509993518333.0,High
+456,Vicuna 7B v1.3 Code v1 IT,Diverse,509993503072.0,High
+457,Vicuna 13B v1.3 Code v1 IT,Diverse,509993487811.0,High
+458,Vicuna 33B Code v1 IT,Diverse,509993472550.0,High
+459,Alpaca 7B Code v1 IT,Diverse,509993457289.0,High
+460,WizardLM-Uncensored Code v1 IT,Diverse,509993442028.0,High
+461,Zephyr 7B Alpha Code v1 IT,Diverse,509993426767.0,High
+462,Zephyr 7B Beta Code v1 IT,Diverse,509993416506.0,High
+463,OpenHermes 2.5 7B Code v1 NL,Diverse,509993401245.0,High
+464,OpenHermes 2.5 13B Code v1 NL,Diverse,509993385984.0,High
+465,Starling 7B Alpha Code v1 NL,Diverse,509993370723.0,High
+466,Starling 7B Beta Code v1 NL,Diverse,509993355462.0,High
+467,SlimOrca Code v1 NL,Diverse,509993340201.0,High
+468,Guanaco 33B Code v1 NL,Diverse,509993329940.0,High
+469,Guanaco 65B Code v1 NL,Diverse,509993314679.0,High
+470,Koala 7B Code v1 NL,Diverse,509993299418.0,High
+471,Koala 13B Code v1 NL,Diverse,509993284157.0,High
+472,Baize 7B Code v1 NL,Diverse,509993268896.0,High
+473,Baize 13B Code v1 NL,Diverse,509993253635.0,High
+474,ChatGLM 6B Code v1 NL,Diverse,509993238374.0,High
+475,ChatGLM2 6B Code v1 NL,Diverse,509993228113.0,High
+476,ChatGLM3 6B Code v1 PL,Diverse,509993212852.0,High
+477,Bloom 560M Code v1 PL,Diverse,509993197591.0,High
+478,Bloom 1.1B Code v1 PL,Diverse,509993182330.0,High
+479,Bloom 1.7B Code v1 PL,Diverse,509993167069.0,High
+480,Bloom 3B Code v1 PL,Diverse,509993151808.0,High
+481,Bloom 7.1B Code v1 PL,Diverse,509993136547.0,High
+482,Bloom 176B Code v1 PL,Diverse,509993126286.0,High
+483,BloomZ 7.1B Code v1 PL,Diverse,509993111025.0,High
+484,OPT 125M Code v1 PL,Diverse,509993095764.0,High
+485,OPT 350M Code v1 PL,Diverse,509993080503.0,High
+486,OPT 1.3B Code v1 PL,Diverse,509993065242.0,High
+487,OPT 2.7B Code v1 PL,Diverse,509993049981.0,High
+488,OPT 6.7B Code v1 PL,Diverse,509993039720.0,High
+489,OPT 13B Code v1 TR,Diverse,509993024459.0,High
+490,OPT 30B Code v1 TR,Diverse,509993009198.0,High
+491,OPT 66B Code v1 TR,Diverse,509992993937.0,High
+492,OPT 175B Code v1 TR,Diverse,509992978676.0,High
+493,Pythia 70M Code v1 TR,Diverse,509992963415.0,High
+494,Pythia 160M Code v1 TR,Diverse,509992948154.0,High
+495,Pythia 410M Code v1 TR,Diverse,509992937893.0,High
+496,Pythia 1B Code v1 TR,Diverse,509992922632.0,High
+497,Pythia 1.4B Code v1 TR,Diverse,509992907371.0,High
+498,Pythia 2.8B Code v1 TR,Diverse,509992892110.0,High
+499,Pythia 6.9B Code v1 TR,Diverse,509992876849.0,High
+500,Pythia 12B Code v1 TR,Diverse,509992861588.0,High
+501,GPT-J 6B Code v1 TR,Diverse,509992851327.0,High
+502,GPT-Neo 125M Code v1 KO,Diverse,509992836066.0,High
+503,GPT-Neo 1.3B Code v1 KO,Diverse,509992820805.0,High
+504,GPT-Neo 2.7B Code v1 KO,Diverse,509992805544.0,High
+505,GPT-NeoX 20B Code v1 KO,Diverse,509992790283.0,High
+506,GPT-NeoX 7B-clip Code v1 KO,Diverse,509992775022.0,High
+507,StableLM 3B Code v1 KO,Diverse,509992759761.0,High
+508,StableLM 7B Code v1 KO,Diverse,509992749500.0,High
+509,StableLM 2 1.6B Code v1 KO,Diverse,509992734239.0,High
+510,StableLM 2 12B Code v1 KO,Diverse,509992718978.0,High
+511,Stable Code 3B Code v1 KO,Diverse,509992703717.0,High
+512,Stable Code Instruct 3B Code v1 KO,Diverse,509992688456.0,High
+513,Dolly-v2 Code Code v1 KO,Diverse,509992673195.0,High
+514,Replit Code 3B Code v1 KO,Diverse,509992662934.0,High
+515,Replit Code Instruct Code v1 SV,Diverse,509992647673.0,High
+516,SantaCoder-RL Code v1 SV,Diverse,509992632412.0,High
+517,OctoCoder Code v1 SV,Diverse,509992617151.0,High
+518,OctoGeeX Code v1 SV,Diverse,509992601890.0,High
+519,PanGu-Coder 350M Code v1 SV,Diverse,509992586629.0,High
+520,PanGu-Coder 2B Code v1 SV,Diverse,509992571368.0,High
+521,ERNIE Bot Code v1 SV,Diverse,509992561107.0,High
+522,ERNIE 4.0 Code v1 SV,Diverse,509992545846.0,High
+523,ERNIE 4.5 Code v1 SV,Diverse,509992530585.0,High
+524,ERNIE X1 Code v1 SV,Diverse,509992515324.0,High
+525,Hunyuan-Turbo Code v1 SV,Diverse,509992500063.0,High
+526,Hunyuan Large Code v1 SV,Diverse,509992484802.0,High
+527,Hunyuan Coder Code v1 SV,Diverse,509992469541.0,High
+528,Seed-Coder 8B Code v1 NO,Diverse,509992459280.0,High
+529,Doubao Coder Code v1 NO,Diverse,509992444019.0,High
+530,Nova Micro Code v1 NO,Diverse,509992428758.0,High
+531,Nova Lite Code v1 NO,Diverse,509992413497.0,High
+532,Nova Pro Code v1 NO,Diverse,509992398236.0,High
+533,Nova Premier Code v1 NO,Diverse,509992382975.0,High
+534,Titan Text Lite Code v1 NO,Diverse,509992372714.0,High
+535,Titan Text Express Code v1 NO,Diverse,509992357453.0,High
+536,Jamba 1.5 Mini Code v1 NO,Diverse,509992342192.0,High
+537,Jamba 1.5 Large Code v1 NO,Diverse,509992326931.0,High
+538,J2 Ultra Code v1 NO,Diverse,509992311670.0,High
+539,PolyCoder 160M Code v1 NO,Diverse,509992296409.0,High
+540,PolyCoder 400M Code v1 NO,Diverse,509992281148.0,High
+541,PolyCoder 2.7B Code v1 DA,Diverse,509992270887.0,High
+542,InCoder 1.3B Code v1 DA,Diverse,509992255626.0,High
+543,InCoder 6.7B Code v1 DA,Diverse,509992240365.0,High
+544,CodeParrot 110M Code v1 DA,Diverse,509992225104.0,High
+545,CodeParrot 1.5B Code v1 DA,Diverse,509992209843.0,High
+546,GPT-CC Code v1 DA,Diverse,509992194582.0,High
+547,AlphaCode (Competition) Code v1 DA,Diverse,509992184321.0,High
+548,AlphaCode 2 (Gemini-era) Code v1 DA,Diverse,509992169060.0,High
+549,Bard Code Assist Code v1 DA,Diverse,509992153799.0,High
+550,Gemini Code Assist Code v1 DA,Diverse,509992138538.0,High
+551,Copilot GPT-4-era Code v1 DA,Diverse,509992123277.0,High
+552,Copilot GPT-4o-era Code v1 DA,Diverse,509992108016.0,High
+553,Tabnine Code Code v1 DA,Diverse,509992092755.0,High
+554,Cursor Small Code v1 FI,Diverse,509992082494.0,High
+555,SWE-smith LM Code v1 FI,Diverse,509992067233.0,High
+556,SWE-Gym Qwen 7B Code v1 FI,Diverse,509992051972.0,High
+557,SWE-Gym Qwen 32B Code v1 FI,Diverse,509992036711.0,High
+558,R2E Gym Code Code v1 FI,Diverse,509992021450.0,High
+559,OpenHands LM 7B Code v1 FI,Diverse,509992006189.0,High
+560,SWE-Llama 7B Code v1 FI,Diverse,509991995928.0,High
+561,SWE-Llama 13B Code v1 FI,Diverse,509991980667.0,High
+562,Qwen 7B Instruct Code v1 FI,Alibaba,509991965406.0,High
+563,Qwen 14B Instruct Code v1 FI,Alibaba,509991950145.0,High
+564,Qwen 72B Instruct Code v1 FI,Alibaba,509991934884.0,High
+565,Qwen1.5 0.5B Instruct Code v1 FI,Alibaba,509991919623.0,High
+566,Qwen1.5 1.8B Instruct Code v1 FI,Alibaba,509991904362.0,High
+567,Qwen1.5 4B Instruct Code v1 CS,Alibaba,509991894101.0,High
+568,Qwen1.5 7B Instruct Code v1 CS,Alibaba,509991878840.0,High
+569,Qwen1.5 14B Instruct Code v1 CS,Alibaba,509991863579.0,High
+570,Qwen1.5 32B Instruct Code v1 CS,Alibaba,509991848318.0,High
+571,Qwen1.5 72B Instruct Code v1 CS,Alibaba,509991833057.0,High
+572,Qwen1.5 110B Instruct Code v1 CS,Alibaba,509991817796.0,High
+573,Qwen2 0.5B Instruct Code v1 CS,Alibaba,509991802535.0,High
+574,Qwen2 1.5B Instruct Code v1 CS,Alibaba,509991792274.0,High
+575,Qwen2 7B Instruct Code v1 CS,Alibaba,509991777013.0,High
+576,Qwen2 57B-A14B Instruct Code v1 CS,Alibaba,509991761752.0,High
+577,Qwen2 72B Instruct Code v1 CS,Alibaba,509991746491.0,High
+578,Qwen2.5 0.5B Instruct Code v1 CS,Alibaba,509991731230.0,High
+579,Qwen2.5 1.5B Instruct Code v1 CS,Alibaba,509991715969.0,High
+580,Qwen2.5 3B Instruct Code v1 EL,Alibaba,509991705708.0,High
+581,Qwen2.5 7B Instruct Code v1 EL,Alibaba,509991690447.0,High
+582,Qwen2.5 14B Instruct Code v1 EL,Alibaba,509991675186.0,High
+583,Qwen2.5 32B Instruct Code v1 EL,Alibaba,509991659925.0,High
+584,Qwen2.5 72B Instruct Code v1 EL,Alibaba,509991644664.0,High
+585,Qwen2.5-Coder 0.5B Instruct Code v1 EL,Alibaba,509991629403.0,High
+586,Qwen2.5-Coder 1.5B Instruct Code v1 EL,Alibaba,509991614142.0,High
+587,Qwen2.5-Coder 3B Instruct Code v1 EL,Alibaba,509991603881.0,High
+588,Qwen2.5-Coder 7B Instruct Code v1 EL,Alibaba,509991588620.0,High
+589,Qwen2.5-Coder 14B Instruct Code v1 EL,Alibaba,509991573359.0,High
+590,Qwen2.5-Coder 32B Instruct Code v1 EL,Alibaba,509991558098.0,High
+591,Qwen3 0.6B Instruct Code v1 EL,Alibaba,509991542837.0,High
+592,Qwen3 1.7B Instruct Code v1 EL,Alibaba,509991527576.0,High
+593,Qwen3 4B Instruct Code v1 HE,Alibaba,509991517315.0,High
+594,Qwen3 8B Instruct Code v1 HE,Alibaba,509991502054.0,High
+595,Qwen3 14B Instruct Code v1 HE,Alibaba,509991486793.0,High
+596,Qwen3 30B-A3B Instruct Code v1 HE,Alibaba,509991471532.0,High
+597,Qwen3 32B Instruct Code v1 HE,Alibaba,509991456271.0,High
+598,Qwen3 235B-A22B Instruct Code v1 HE,Alibaba,509991441010.0,High
+599,Qwen3-Coder 30B-A3B Instruct Code v1 HE,Alibaba,509991425749.0,High
+600,Qwen3-Coder 480B-A35B Instruct Code v1 HE,Alibaba,509991415488.0,High
+601,Qwen3.5 27B Instruct Code v1 HE,Alibaba,509991400227.0,High
+602,Qwen3.8 27B Instruct Code v1 HE,Alibaba,509991384966.0,High
+603,Qwen2.5-Math 1.5B Instruct Code v1 HE,Alibaba,509991369705.0,High
+604,Qwen2.5-Math 7B Instruct Code v1 HE,Alibaba,509991354444.0,High
+605,Qwen2.5-Math 72B Instruct Code v1 HE,Alibaba,509991339183.0,High
+606,Qwen2-VL 2B Instruct Code v1 TH,Alibaba,509991328922.0,High
+607,Qwen2-VL 7B Instruct Code v1 TH,Alibaba,509991313661.0,High
+608,Qwen2-VL 72B Instruct Code v1 TH,Alibaba,509991298400.0,High
+609,Qwen2.5-VL 3B Instruct Code v1 TH,Alibaba,509991283139.0,High
+610,Qwen2.5-VL 7B Instruct Code v1 TH,Alibaba,509991267878.0,High
+611,Qwen2.5-VL 32B Instruct Code v1 TH,Alibaba,509991252617.0,High
+612,Qwen2.5-VL 72B Instruct Code v1 TH,Alibaba,509991237356.0,High
+613,CodeQwen1.5 7B Instruct Code v1 TH,Alibaba,509991227095.0,High
+614,Llama 7B Instruct Code v1 TH,Meta,509991211834.0,High
+615,Llama 13B Instruct Code v1 TH,Meta,509991196573.0,High
+616,Llama 30B Instruct Code v1 TH,Meta,509991181312.0,High
+617,Llama 65B Instruct Code v1 TH,Meta,509991166051.0,High
+618,Llama 2 7B Instruct Code v1 TH,Meta,509991150790.0,High
+619,Llama 2 13B Instruct Code v1 VI,Meta,509991135529.0,High
+620,Llama 2 34B Instruct Code v1 VI,Meta,509991125268.0,High
+621,Llama 2 70B Instruct Code v1 VI,Meta,509991110007.0,High
+622,Llama 3 8B Instruct Code v1 VI,Meta,509991094746.0,High
+623,Llama 3 70B Instruct Code v1 VI,Meta,509991079485.0,High
+624,Llama 3.1 8B Instruct Code v1 VI,Meta,509991064224.0,High
+625,Llama 3.1 70B Instruct Code v1 VI,Meta,509991048963.0,High
+626,Llama 3.1 405B Instruct Code v1 VI,Meta,509991038702.0,High
+627,Llama 3.2 1B Instruct Code v1 VI,Meta,509991023441.0,High
+628,Llama 3.2 3B Instruct Code v1 VI,Meta,509991008180.0,High
+629,Llama 3.2 11B-Vision Instruct Code v1 VI,Meta,509990992919.0,High
+630,Llama 3.2 90B-Vision Instruct Code v1 VI,Meta,509990977658.0,High
+631,Llama 3.3 70B Instruct Code v1 VI,Meta,509990962397.0,High
+632,Llama 4 Scout Instruct Code v1 DE,Meta,509990947136.0,High
+633,Llama 4 Scout 109B Instruct Code v1 DE,Meta,509990936875.0,High
+634,Llama 4 Maverick Instruct Code v1 DE,Meta,509990921614.0,High
+635,Llama 4 Maverick 400B Instruct Code v1 DE,Meta,509990906353.0,High
+636,Code Llama 7B Instruct Code v1 DE,Meta,509990891092.0,High
+637,Code Llama 13B Instruct Code v1 DE,Meta,509990875831.0,High
+638,Code Llama 34B Instruct Code v1 DE,Meta,509990860570.0,High
+639,Code Llama 70B Instruct Code v1 DE,Meta,509990850309.0,High
+640,Code Llama Python 7B Instruct Code v1 DE,Meta,509990835048.0,High
+641,Code Llama Python 13B Instruct Code v1 DE,Meta,509990819787.0,High
+642,Code Llama Python 34B Instruct Code v1 DE,Meta,509990804526.0,High
+643,Code Llama Instruct 7B Instruct Code v1 DE,Meta,509990789265.0,High
+644,Code Llama Instruct 13B Instruct Code v1 DE,Meta,509990774004.0,High
+645,Code Llama Instruct 34B Instruct Code v1 EN,Meta,509990758743.0,High
+646,Code Llama Instruct 70B Instruct Code v1 EN,Meta,509990748482.0,High
+647,Gemma 2B Instruct Code v1 EN,Google,509990733221.0,High
+648,Gemma 7B Instruct Code v1 EN,Google,509990717960.0,High
+649,Gemma 2 2B Instruct Code v1 EN,Google,509990702699.0,High
+650,Gemma 2 9B Instruct Code v1 EN,Google,509990687438.0,High
+651,Gemma 2 27B Instruct Code v1 EN,Google,509990672177.0,High
+652,Gemma 3 1B Instruct Code v1 EN,Google,509990661916.0,High
+653,Gemma 3 4B Instruct Code v1 EN,Google,509990646655.0,High
+654,Gemma 3 12B Instruct Code v1 EN,Google,509990631394.0,High
+655,Gemma 3 27B Instruct Code v1 EN,Google,509990616133.0,High
+656,Gemma 3n E2B Instruct Code v1 EN,Google,509990600872.0,High
+657,Gemma 3n E4B Instruct Code v1 EN,Google,509990585611.0,High
+658,CodeGemma 2B Instruct Code v1 FR,Google,509990570350.0,High
+659,CodeGemma 7B Instruct Code v1 FR,Google,509990560089.0,High
+660,PaLM 2 Instruct Code v1 FR,Google,509990544828.0,High
+661,PaLM 2 Codey Instruct Code v1 FR,Google,509990529567.0,High
+662,Bard (LaMDA) Instruct Code v1 FR,Google,509990514306.0,High
+663,Bard (PaLM 2) Instruct Code v1 FR,Google,509990499045.0,High
+664,Gemini 1.0 Pro Instruct Code v1 FR,Google,509990483784.0,High
+665,Gemini 1.0 Ultra Instruct Code v1 FR,Google,509990468523.0,High
+666,Gemini 1.5 Flash Instruct Code v1 FR,Google,509990458262.0,High
+667,Gemini 1.5 Flash-8B Instruct Code v1 FR,Google,509990443001.0,High
+668,Gemini 1.5 Pro Instruct Code v1 FR,Google,509990427740.0,High
+669,Gemini 2.0 Flash Instruct Code v1 FR,Google,509990412479.0,High
+670,Gemini 2.0 Flash-Lite Instruct Code v1 FR,Google,509990397218.0,High
+671,Gemini 2.0 Pro Instruct Code v1 ES,Google,509990381957.0,High
+672,Gemini 2.5 Flash Instruct Code v1 ES,Google,509990371696.0,High
+673,Gemini 2.5 Flash-Lite Instruct Code v1 ES,Google,509990356435.0,High
+674,Gemini 2.5 Pro Instruct Code v1 ES,Google,509990341174.0,High
+675,Gemini 2.5 Deep Think Instruct Code v1 ES,Google,509990325913.0,High
+676,Gemini 3 Deep Think Instruct Code v1 ES,Google,509990310652.0,High
+677,Mistral 7B v0.1 Instruct Code v1 ES,Mistral,509990295391.0,High
+678,Mistral 7B v0.2 Instruct Code v1 ES,Mistral,509990280130.0,High
+679,Mistral 7B v0.3 Instruct Code v1 ES,Mistral,509990269869.0,High
+680,Mixtral 8x7B v0.1 Instruct Code v1 ES,Mistral,509990254608.0,High
+681,Mixtral 8x22B Instruct Code v1 ES,Mistral,509990239347.0,High
+682,Mistral Small 8B Instruct Code v1 ES,Mistral,509990224086.0,High
+683,Mistral Small 22B Instruct Code v1 ES,Mistral,509990208825.0,High
+684,Mistral Small 3.1 24B Instruct Code v1 ZH,Mistral,509990193564.0,High
+685,Mistral Medium 2024 Instruct Code v1 ZH,Mistral,509990183303.0,High
+686,Mistral Medium 3 Instruct Code v1 ZH,Mistral,509990168042.0,High
+687,Mistral Large 2024 Instruct Code v1 ZH,Mistral,509990152781.0,High
+688,Mistral Large 2 (123B) Instruct Code v1 ZH,Mistral,509990137520.0,High
+689,Mistral Large 3 (41B) Instruct Code v1 ZH,Mistral,509990122259.0,High
+690,Codestral 22B Instruct Code v1 ZH,Mistral,509990106998.0,High
+691,Codestral Mamba 7B Instruct Code v1 ZH,Mistral,509990091737.0,High
+692,Codestral 25.01 Instruct Code v1 ZH,Mistral,509990081476.0,High
+693,Devstral Small 24B Instruct Code v1 ZH,Mistral,509990066215.0,High
+694,Devstral Medium Instruct Code v1 ZH,Mistral,509990050954.0,High
+695,Mathstral 7B Instruct Code v1 ZH,Mistral,509990035693.0,High
+696,Pixtral 12B Instruct Code v1 ZH,Mistral,509990020432.0,High
+697,Magistral Small Instruct Code v1 JA,Mistral,509990005171.0,High
+698,Magistral Medium Instruct Code v1 JA,Mistral,509989994910.0,High
+699,Mistral NeMo 12B Instruct Code v1 JA,Mistral,509989979649.0,High
+700,Mixtral 8x7B Instruct Instruct Code v1 JA,Mistral,509989964388.0,High
+701,Mistral 7B Instruct v0.2 Instruct Code v1 JA,Mistral,509989949127.0,High
+702,Phi-1 Instruct Code v1 JA,Microsoft,509989933866.0,High
+703,Phi-1.5 Instruct Code v1 JA,Microsoft,509989918605.0,High
+704,Phi-2 Instruct Code v1 JA,Microsoft,509989903344.0,High
+705,Phi-3 mini 3.8B Instruct Code v1 JA,Microsoft,509989893083.0,High
+706,Phi-3 small 7B Instruct Code v1 JA,Microsoft,509989877822.0,High
+707,Phi-3 medium 14B Instruct Code v1 JA,Microsoft,509989862561.0,High
+708,Phi-3.5 mini Instruct Code v1 JA,Microsoft,509989847300.0,High
+709,Phi-3.5 MoE Instruct Code v1 JA,Microsoft,509989832039.0,High
+710,Phi-3.5 Vision Instruct Code v1 AR,Microsoft,509989816778.0,High
+711,Phi-4 14B Instruct Code v1 AR,Microsoft,509989801517.0,High
+712,Phi-4 mini Instruct Code v1 AR,Microsoft,509989791256.0,High
+713,Phi-4 multimodal Instruct Code v1 AR,Microsoft,509989775995.0,High
+714,Phi-4 reasoning Instruct Code v1 AR,Microsoft,509989760734.0,High
+715,Phi-4 reasoning+ Instruct Code v1 AR,Microsoft,509989745473.0,High
+716,WizardLM 7B Instruct Code v1 AR,Microsoft,509989730212.0,High
+717,WizardLM 13B Instruct Code v1 AR,Microsoft,509989714951.0,High
+718,WizardLM 70B Instruct Code v1 AR,Microsoft,509989704690.0,High
+719,WizardCoder 15B Instruct Code v1 AR,Microsoft,509989689429.0,High
+720,WizardCoder 33B Instruct Code v1 AR,Microsoft,509989674168.0,High
+721,WizardCoder Python 7B Instruct Code v1 AR,Microsoft,509989658907.0,High
+722,WizardCoder Python 13B Instruct Code v1 AR,Microsoft,509989643646.0,High
+723,WizardCoder Python 34B Instruct Code v1 HI,Microsoft,509989628385.0,High
+724,Orca 7B Instruct Code v1 HI,Microsoft,509989613124.0,High
+725,Orca 13B Instruct Code v1 HI,Microsoft,509989602863.0,High
+726,Orca 2 7B Instruct Code v1 HI,Microsoft,509989587602.0,High
+727,Orca 2 13B Instruct Code v1 HI,Microsoft,509989572341.0,High
+728,StarCoder 1B Instruct Code v1 HI,BigCode/Salesforce,509989557080.0,High
+729,StarCoder 3B Instruct Code v1 HI,BigCode/Salesforce,509989541819.0,High
+730,StarCoder 7B Instruct Code v1 HI,BigCode/Salesforce,509989526558.0,High
+731,StarCoder 15.5B Instruct Code v1 HI,BigCode/Salesforce,509989516297.0,High
+732,StarCoder2 3B Instruct Code v1 HI,BigCode/Salesforce,509989501036.0,High
+733,StarCoder2 7B Instruct Code v1 HI,BigCode/Salesforce,509989485775.0,High
+734,StarCoder2 15B Instruct Code v1 HI,BigCode/Salesforce,509989470514.0,High
+735,StarCoderBase 1B Instruct Code v1 HI,BigCode/Salesforce,509989455253.0,High
+736,StarCoderBase 3B Instruct Code v1 PT,BigCode/Salesforce,509989439992.0,High
+737,StarCoderBase 7B Instruct Code v1 PT,BigCode/Salesforce,509989424731.0,High
+738,StarCoderBase 15.5B Instruct Code v1 PT,BigCode/Salesforce,509989414470.0,High
+739,SantaCoder 1.1B Instruct Code v1 PT,BigCode/Salesforce,509989399209.0,High
+740,CodeGen 350M Instruct Code v1 PT,BigCode/Salesforce,509989383948.0,High
+741,CodeGen 2B Instruct Code v1 PT,BigCode/Salesforce,509989368687.0,High
+742,CodeGen 6B Instruct Code v1 PT,BigCode/Salesforce,509989353426.0,High
+743,CodeGen 16B Instruct Code v1 PT,BigCode/Salesforce,509989338165.0,High
+744,CodeGen2 1B Instruct Code v1 PT,BigCode/Salesforce,509989327904.0,High
+745,CodeGen2 3.7B Instruct Code v1 PT,BigCode/Salesforce,509989312643.0,High
+746,CodeGen2 7B Instruct Code v1 PT,BigCode/Salesforce,509989297382.0,High
+747,CodeGen2 16B Instruct Code v1 PT,BigCode/Salesforce,509989282121.0,High
+748,CodeT5 60M Instruct Code v1 PT,BigCode/Salesforce,509989266860.0,High
+749,CodeT5 220M Instruct Code v1 RU,BigCode/Salesforce,509989251599.0,High
+750,CodeT5 770M Instruct Code v1 RU,BigCode/Salesforce,509989236338.0,High
+751,CodeT5+ 220M Instruct Code v1 RU,BigCode/Salesforce,509989226077.0,High
+752,CodeT5+ 770M Instruct Code v1 RU,BigCode/Salesforce,509989210816.0,High
+753,CodeT5+ 2B Instruct Code v1 RU,BigCode/Salesforce,509989195555.0,High
+754,CodeT5+ 6B Instruct Code v1 RU,BigCode/Salesforce,509989180294.0,High
+755,CodeT5+ 16B Instruct Code v1 RU,BigCode/Salesforce,509989165033.0,High
+756,CodeBERT base Instruct Code v1 RU,BigCode/Salesforce,509989149772.0,High
+757,GraphCodeBERT Instruct Code v1 RU,BigCode/Salesforce,509989134511.0,High
+758,PLBART base Instruct Code v1 RU,BigCode/Salesforce,509989124250.0,High
+759,PLBART large Instruct Code v1 RU,BigCode/Salesforce,509989108989.0,High
+760,CodeReviewer Instruct Code v1 RU,BigCode/Salesforce,509989093728.0,High
+761,CodeRetriever Instruct Code v1 RU,BigCode/Salesforce,509989078467.0,High
+762,DeepSeek Coder 1.3B Instruct Code v1 IT,DeepSeek,509989063206.0,High
+763,DeepSeek Coder 6.7B Instruct Code v1 IT,DeepSeek,509989047945.0,High
+764,DeepSeek Coder 33B Instruct Code v1 IT,DeepSeek,509989037684.0,High
+765,DeepSeek Coder V2 16B Instruct Code v1 IT,DeepSeek,509989022423.0,High
+766,DeepSeek Coder V2 236B Instruct Code v1 IT,DeepSeek,509989007162.0,High
+767,DeepSeek LLM 7B Instruct Code v1 IT,DeepSeek,509988991901.0,High
+768,DeepSeek LLM 67B Instruct Code v1 IT,DeepSeek,509988976640.0,High
+769,DeepSeek Math 7B Instruct Code v1 IT,DeepSeek,509988961379.0,High
+770,DeepSeek V2 Instruct Code v1 IT,DeepSeek,509988946118.0,High
+771,DeepSeek V2.5 Instruct Code v1 IT,DeepSeek,509988935857.0,High
+772,DeepSeek V3 Instruct Code v1 IT,DeepSeek,509988920596.0,High
+773,DeepSeek V3.1 Instruct Code v1 IT,DeepSeek,509988905335.0,High
+774,DeepSeek R1 Instruct Code v1 IT,DeepSeek,509988890074.0,High
+775,DeepSeek R1-Distill Qwen 1.5B Instruct Code v1 NL,DeepSeek,509988874813.0,High
+776,DeepSeek R1-Distill Qwen 7B Instruct Code v1 NL,DeepSeek,509988859552.0,High
+777,DeepSeek R1-Distill Qwen 14B Instruct Code v1 NL,DeepSeek,509988849291.0,High
+778,DeepSeek R1-Distill Qwen 32B Instruct Code v1 NL,DeepSeek,509988834030.0,High
+779,DeepSeek R1-Distill Llama 8B Instruct Code v1 NL,DeepSeek,509988818769.0,High
+780,DeepSeek R1-Distill Llama 70B Instruct Code v1 NL,DeepSeek,509988803508.0,High
+781,DeepSeek Janus Pro 7B Instruct Code v1 NL,DeepSeek,509988788247.0,High
+782,Codex 12B (code-davinci-002) Instruct Code v1 NL,OpenAI,509988772986.0,High
+783,code-davinci-002 Instruct Code v1 NL,OpenAI,509988757725.0,High
+784,code-cushman-001 Instruct Code v1 NL,OpenAI,509988747464.0,High
+785,GPT-3.5 Turbo 0301 Instruct Code v1 NL,OpenAI,509988732203.0,High
+786,GPT-3.5 Turbo 0613 Instruct Code v1 NL,OpenAI,509988716942.0,High
+787,GPT-3.5 Turbo 1106 Instruct Code v1 NL,OpenAI,509988701681.0,High
+788,GPT-3.5 Turbo 0125 Instruct Code v1 PL,OpenAI,509988686420.0,High
+789,GPT-4 0314 Instruct Code v1 PL,OpenAI,509988671159.0,High
+790,GPT-4 0613 Instruct Code v1 PL,OpenAI,509988660898.0,High
+791,GPT-4 1106-preview Instruct Code v1 PL,OpenAI,509988645637.0,High
+792,GPT-4 Turbo 0125 Instruct Code v1 PL,OpenAI,509988630376.0,High
+793,GPT-4 Turbo 0409 Instruct Code v1 PL,OpenAI,509988615115.0,High
+794,GPT-4o 2024-05-13 Instruct Code v1 PL,OpenAI,509988599854.0,High
+795,GPT-4o 2024-08-06 Instruct Code v1 PL,OpenAI,509988584593.0,High
+796,GPT-4o 2024-11-20 Instruct Code v1 PL,OpenAI,509988569332.0,High
+797,GPT-4o mini 2024-07-18 Instruct Code v1 PL,OpenAI,509988559071.0,High
+798,GPT-4.1 mini Instruct Code v1 PL,OpenAI,509988543810.0,High
+799,GPT-4.1 nano Instruct Code v1 PL,OpenAI,509988528549.0,High
+800,o1-mini Instruct Code v1 PL,OpenAI,509988513288.0,High
+801,o1-preview Instruct Code v1 TR,OpenAI,509988498027.0,High
+802,o1 Instruct Code v1 TR,OpenAI,509988482766.0,High
+803,o3-mini Instruct Code v1 TR,OpenAI,509988467505.0,High
+804,o3-mini-high Instruct Code v1 TR,OpenAI,509988457244.0,High
+805,o4-mini Instruct Code v1 TR,OpenAI,509988441983.0,High
+806,GPT-4.5 Orion Instruct Code v1 TR,OpenAI,509988426722.0,High
+807,GPT-5 nano Instruct Code v1 TR,OpenAI,509988411461.0,High
+808,GPT-5 Codex mini Instruct Code v1 TR,OpenAI,509988396200.0,High
+809,GPT-5.1 Instruct Code v1 TR,OpenAI,509988380939.0,High
+810,GPT-5.1 Codex Instruct Code v1 TR,OpenAI,509988370678.0,High
+811,GPT-5.1 Codex Max Instruct Code v1 TR,OpenAI,509988355417.0,High
+812,GPT-5.2 Instruct Code v1 TR,OpenAI,509988340156.0,High
+813,GPT-5.3 Instruct Code v1 TR,OpenAI,509988324895.0,High
+814,GPT-5.4 Instruct Code v1 KO,OpenAI,509988309634.0,High
+815,Codex CLI 2025 Instruct Code v1 KO,OpenAI,509988294373.0,High
+816,Codex mini Instruct Code v1 KO,OpenAI,509988279112.0,High
+817,Claude Instant 1.2 Instruct Code v1 KO,Anthropic,509988268851.0,High
+818,Claude 1 Instruct Code v1 KO,Anthropic,509988253590.0,High
+819,Claude 2.0 Instruct Code v1 KO,Anthropic,509988238329.0,High
+820,Claude 2.1 Instruct Code v1 KO,Anthropic,509988223068.0,High
+821,Claude 3 Haiku Instruct Code v1 KO,Anthropic,509988207807.0,High
+822,Claude 3 Sonnet Instruct Code v1 KO,Anthropic,509988192546.0,High
+823,Claude 3 Opus Instruct Code v1 KO,Anthropic,509988182285.0,High
+824,Claude 3.5 Sonnet 2024-06-20 Instruct Code v1 KO,Anthropic,509988167024.0,High
+825,Claude 3.5 Sonnet 2024-10-22 Instruct Code v1 KO,Anthropic,509988151763.0,High
+826,Claude 3.5 Haiku Instruct Code v1 KO,Anthropic,509988136502.0,High
+827,Claude 3.7 Sonnet Instruct Code v1 SV,Anthropic,509988121241.0,High
+828,Claude 4 Sonnet Instruct Code v1 SV,Anthropic,509988105980.0,High
+829,Claude 4 Opus Instruct Code v1 SV,Anthropic,509988090719.0,High
+830,Claude 4.1 Opus Instruct Code v1 SV,Anthropic,509988080458.0,High
+831,Claude 4.1 Sonnet Instruct Code v1 SV,Anthropic,509988065197.0,High
+832,Claude Haiku 3.5 Instruct Code v1 SV,Anthropic,509988049936.0,High
+833,Claude Sonnet 4.6 Instruct Code v1 SV,Anthropic,509988034675.0,High
+834,Claude Haiku 4 Instruct Code v1 SV,Anthropic,509988019414.0,High
+835,Claude Agent SDK Sonnet Instruct Code v1 SV,Anthropic,509988004153.0,High
+836,Grok-1 Instruct Code v1 SV,xAI,509987993892.0,High
+837,Grok-1.5 Instruct Code v1 SV,xAI,509987978631.0,High
+838,Grok-1.5V Instruct Code v1 SV,xAI,509987963370.0,High
+839,Grok-2 Instruct Code v1 SV,xAI,509987948109.0,High
+840,Grok-2 mini Instruct Code v1 NO,xAI,509987932848.0,High
+841,Grok-3 Instruct Code v1 NO,xAI,509987917587.0,High
+842,Grok-3 mini Instruct Code v1 NO,xAI,509987902326.0,High
+843,Grok-4 Instruct Code v1 NO,xAI,509987892065.0,High
+844,Grok-4 Heavy Instruct Code v1 NO,xAI,509987876804.0,High
+845,Grok-4.1 Instruct Code v1 NO,xAI,509987861543.0,High
+846,Grok Code Fast Instruct Code v1 NO,xAI,509987846282.0,High
+847,Grok Build 0.1 Instruct Code v1 NO,xAI,509987831021.0,High
+848,"Aurora (Grok image, code-adjacent) Instruct Code v1 NO",xAI,509987815760.0,High
+849,GLM-4 Instruct Code v1 NO,China-Labs,509987805499.0,High
+850,GLM-4 Air Instruct Code v1 NO,China-Labs,509987790238.0,High
+851,GLM-4 Flash Instruct Code v1 NO,China-Labs,509987774977.0,High
+852,GLM-4 Plus Instruct Code v1 NO,China-Labs,509987759716.0,High
+853,GLM-4.5 Instruct Code v1 DA,China-Labs,509987744455.0,High
+854,GLM-4.5 Air Instruct Code v1 DA,China-Labs,509987729194.0,High
+855,GLM-4.6 Instruct Code v1 DA,China-Labs,509987713933.0,High
+856,GLM-5 Instruct Code v1 DA,China-Labs,509987703672.0,High
+857,GLM-5.2 Instruct Code v1 DA,China-Labs,509987688411.0,High
+858,GLM Coding Plan Instruct Code v1 DA,China-Labs,509987673150.0,High
+859,CodeGeeX 6B Instruct Code v1 DA,China-Labs,509987657889.0,High
+860,CodeGeeX2 6B Instruct Code v1 DA,China-Labs,509987642628.0,High
+861,CodeGeeX4 9B Instruct Code v1 DA,China-Labs,509987627367.0,High
+862,Kimi K1.5 Instruct Code v1 DA,China-Labs,509987612106.0,High
+863,Kimi K2 1T Instruct Code v1 DA,China-Labs,509987601845.0,High
+864,Kimi K2 0905 Instruct Code v1 DA,China-Labs,509987586584.0,High
+865,Kimi K2 Thinking Instruct Code v1 DA,China-Labs,509987571323.0,High
+866,Kimi K2.5 Instruct Code v1 FI,China-Labs,509987556062.0,High
+867,MiniMax M1 Instruct Code v1 FI,China-Labs,509987540801.0,High
+868,MiniMax M2 Instruct Code v1 FI,China-Labs,509987525540.0,High
+869,MiniMax M2.1 Instruct Code v1 FI,China-Labs,509987515279.0,High
+870,MiniMax Text-01 Instruct Code v1 FI,China-Labs,509987500018.0,High
+871,MiniMax 01 Instruct Code v1 FI,China-Labs,509987484757.0,High
+872,Nemotron 4 15B Instruct Code v1 FI,NVIDIA,509987469496.0,High
+873,Nemotron 4 340B Instruct Code v1 FI,NVIDIA,509987454235.0,High
+874,Nemotron 70B Instruct Code v1 FI,NVIDIA,509987438974.0,High
+875,Nemotron Super 49B Instruct Code v1 FI,NVIDIA,509987423713.0,High
+876,Nemotron Nano 8B Instruct Code v1 FI,NVIDIA,509987413452.0,High
+877,Nemotron Ultra 253B Instruct Code v1 FI,NVIDIA,509987398191.0,High
+878,Nemotron 3 Nano 30B Instruct Code v1 FI,NVIDIA,509987382930.0,High
+879,Nemotron 3 Super 49B Instruct Code v1 CS,NVIDIA,509987367669.0,High
+880,Nemotron 3 Ultra 253B Instruct Code v1 CS,NVIDIA,509987352408.0,High
+881,Nemotron 4 Mini Hindi 4B Instruct Code v1 CS,NVIDIA,509987337147.0,High
+882,CodeGemma-NV Instruct Code v1 CS,NVIDIA,509987326886.0,High
+883,NVLM 72B Instruct Code v1 CS,NVIDIA,509987311625.0,High
+884,StarCoder2 15B-NV Instruct Code v1 CS,NVIDIA,509987296364.0,High
+885,Llama 3.1 Nemotron 8B Instruct Code v1 CS,NVIDIA,509987281103.0,High
+886,Llama 3.1 Nemotron 70B Instruct Code v1 CS,NVIDIA,509987265842.0,High
+887,Llama 3.1 Nemotron Ultra 253B Instruct Code v1 CS,NVIDIA,509987250581.0,High
+888,Nemotron-CC Instruct Code v1 CS,NVIDIA,509987235320.0,High
+889,Nemotron-PAR Instruct Code v1 CS,NVIDIA,509987225059.0,High
+890,Granite 3B Code Instruct Code v1 CS,IBM,509987209798.0,High
+891,Granite 8B Code Instruct Code v1 CS,IBM,509987194537.0,High
+892,Granite 20B Code Instruct Code v1 EL,IBM,509987179276.0,High
+893,Granite 34B Code Instruct Code v1 EL,IBM,509987164015.0,High
+894,Granite 3.0 2B Instruct Code v1 EL,IBM,509987148754.0,High
+895,Granite 3.0 8B Instruct Code v1 EL,IBM,509987138493.0,High
+896,Granite 3.1 2B Instruct Code v1 EL,IBM,509987123232.0,High
+897,Granite 3.1 8B Instruct Code v1 EL,IBM,509987107971.0,High
+898,Granite 3.2 2B Instruct Code v1 EL,IBM,509987092710.0,High
+899,Granite 3.2 8B Instruct Code v1 EL,IBM,509987077449.0,High
+900,Granite 3.3 2B Instruct Code v1 EL,IBM,509987062188.0,High
+901,Granite 4.0 Micro Instruct Code v1 EL,IBM,509987046927.0,High
+902,Granite 4.0 Small Instruct Code v1 EL,IBM,509987036666.0,High
+903,Granite Guardian 3.1 2B Instruct Code v1 EL,IBM,509987021405.0,High
+904,Granite Guardian 3.1 8B Instruct Code v1 EL,IBM,509987006144.0,High
+905,Command Instruct Code v1 HE,Cohere,509986990883.0,High
+906,Command Light Instruct Code v1 HE,Cohere,509986975622.0,High
+907,Command R Instruct Code v1 HE,Cohere,509986960361.0,High
+908,Command R 08-2024 Instruct Code v1 HE,Cohere,509986945100.0,High
+909,Command R+ Instruct Code v1 HE,Cohere,509986934839.0,High
+910,Command R+ 08-2024 Instruct Code v1 HE,Cohere,509986919578.0,High
+911,Command A Instruct Code v1 HE,Cohere,509986904317.0,High
+912,Command A Vision Instruct Code v1 HE,Cohere,509986889056.0,High
+913,Command A Translate Instruct Code v1 HE,Cohere,509986873795.0,High
+914,Command A Reasoning Instruct Code v1 HE,Cohere,509986858534.0,High
+915,Cohere Embed-era Code Instruct Code v1 HE,Cohere,509986848273.0,High
+916,C4AI Command R7B Instruct Code v1 HE,Cohere,509986833012.0,High
+917,Command R7B Instruct Code v1 HE,Cohere,509986817751.0,High
+918,Falcon 7B Instruct Code v1 TH,Diverse,509986802490.0,High
+919,Falcon 40B Instruct Code v1 TH,Diverse,509986787229.0,High
+920,Falcon 180B Instruct Code v1 TH,Diverse,509986771968.0,High
+921,Falcon 3 1B Instruct Code v1 TH,Diverse,509986756707.0,High
+922,Falcon 3 3B Instruct Code v1 TH,Diverse,509986746446.0,High
+923,Falcon 3 7B Instruct Code v1 TH,Diverse,509986731185.0,High
+924,Falcon 3 10B Instruct Code v1 TH,Diverse,509986715924.0,High
+925,MPT 7B Instruct Code v1 TH,Diverse,509986700663.0,High
+926,MPT 7B-8k Instruct Code v1 TH,Diverse,509986685402.0,High
+927,MPT 30B Instruct Code v1 TH,Diverse,509986670141.0,High
+928,MPT Code Clippy Instruct Code v1 TH,Diverse,509986659880.0,High
+929,Dolly 3B Instruct Code v1 TH,Diverse,509986644619.0,High
+930,Dolly 7B Instruct Code v1 TH,Diverse,509986629358.0,High
+931,Dolly 12B Instruct Code v1 VI,Diverse,509986614097.0,High
+932,DBRX Instruct Instruct Code v1 VI,Diverse,509986598836.0,High
+933,MiMo 7B Instruct Code v1 VI,Diverse,509986583575.0,High
+934,Yi 6B Instruct Code v1 VI,Diverse,509986568314.0,High
+935,Yi 9B Instruct Code v1 VI,Diverse,509986558053.0,High
+936,Yi 34B Instruct Code v1 VI,Diverse,509986542792.0,High
+937,Yi Coder 1.5B Instruct Code v1 VI,Diverse,509986527531.0,High
+938,Yi Coder 9B Instruct Code v1 VI,Diverse,509986512270.0,High
+939,Yi 1.5 6B Instruct Code v1 VI,Diverse,509986497009.0,High
+940,Yi 1.5 9B Instruct Code v1 VI,Diverse,509986481748.0,High
+941,Yi 1.5 34B Instruct Code v1 VI,Diverse,509986471487.0,High
+942,InternLM 7B Instruct Code v1 VI,Diverse,509986456226.0,High
+943,InternLM 20B Instruct Code v1 VI,Diverse,509986440965.0,High
+944,InternLM2 7B Instruct Code v1 DE,Diverse,509986425704.0,High
+945,InternLM2 20B Instruct Code v1 DE,Diverse,509986410443.0,High
+946,InternLM2.5 7B Instruct Code v1 DE,Diverse,509986395182.0,High
+947,InternLM3 8B Instruct Code v1 DE,Diverse,509986379921.0,High
+948,InternLM-XComposer Instruct Code v1 DE,Diverse,509986369660.0,High
+949,Baichuan 7B Instruct Code v1 DE,Diverse,509986354399.0,High
+950,Baichuan 13B Instruct Code v1 DE,Diverse,509986339138.0,High
+951,Baichuan2 7B Instruct Code v1 DE,Diverse,509986323877.0,High
+952,Baichuan2 13B Instruct Code v1 DE,Diverse,509986308616.0,High
+953,Skywork 8B Instruct Code v1 DE,Diverse,509986293355.0,High
+954,Skywork 13B Instruct Code v1 DE,Diverse,509986278094.0,High
+955,XVERSE 7B Instruct Code v1 DE,Diverse,509986267833.0,High
+956,XVERSE 13B Instruct Code v1 DE,Diverse,509986252572.0,High
+957,Aquila 7B Instruct Code v1 EN,Diverse,509986237311.0,High
+958,AquilaChat 7B Instruct Code v1 EN,Diverse,509986222050.0,High
+959,AquilaCode 7B Instruct Code v1 EN,Diverse,509986206789.0,High
+960,DeepSeek-QLoRA-era OpenChat Instruct Code v1 EN,Diverse,509986191528.0,High
+961,OpenChat 3.5 7B Instruct Code v1 EN,Diverse,509986181267.0,High
+962,Vicuna 7B v1.3 Instruct Code v1 EN,Diverse,509986166006.0,High
+963,Vicuna 13B v1.3 Instruct Code v1 EN,Diverse,509986150745.0,High
+964,Vicuna 33B Instruct Code v1 EN,Diverse,509986135484.0,High
+965,Alpaca 7B Instruct Code v1 EN,Diverse,509986120223.0,High
+966,WizardLM-Uncensored Instruct Code v1 EN,Diverse,509986104962.0,High
+967,Zephyr 7B Alpha Instruct Code v1 EN,Diverse,509986089701.0,High
+968,Zephyr 7B Beta Instruct Code v1 EN,Diverse,509986079440.0,High
+969,OpenHermes 2.5 7B Instruct Code v1 EN,Diverse,509986064179.0,High
+970,OpenHermes 2.5 13B Instruct Code v1 FR,Diverse,509986048918.0,High
+971,Starling 7B Alpha Instruct Code v1 FR,Diverse,509986033657.0,High
+972,Starling 7B Beta Instruct Code v1 FR,Diverse,509986018396.0,High
+973,SlimOrca Instruct Code v1 FR,Diverse,509986003135.0,High
+974,Guanaco 33B Instruct Code v1 FR,Diverse,509985992874.0,High
+975,Guanaco 65B Instruct Code v1 FR,Diverse,509985977613.0,High
+976,Koala 7B Instruct Code v1 FR,Diverse,509985962352.0,High
+977,Koala 13B Instruct Code v1 FR,Diverse,509985947091.0,High
+978,Baize 7B Instruct Code v1 FR,Diverse,509985931830.0,High
+979,Baize 13B Instruct Code v1 FR,Diverse,509985916569.0,High
+980,ChatGLM 6B Instruct Code v1 FR,Diverse,509985901308.0,High
+981,ChatGLM2 6B Instruct Code v1 FR,Diverse,509985891047.0,High
+982,ChatGLM3 6B Instruct Code v1 FR,Diverse,509985875786.0,High
+983,Bloom 560M Instruct Code v1 ES,Diverse,509985860525.0,High
+984,Bloom 1.1B Instruct Code v1 ES,Diverse,509985845264.0,High
+985,Bloom 1.7B Instruct Code v1 ES,Diverse,509985830003.0,High
+986,Bloom 3B Instruct Code v1 ES,Diverse,509985814742.0,High
+987,Bloom 7.1B Instruct Code v1 ES,Diverse,509985804481.0,High
+988,Bloom 176B Instruct Code v1 ES,Diverse,509985789220.0,High
+989,BloomZ 7.1B Instruct Code v1 ES,Diverse,509985773959.0,High
+990,OPT 125M Instruct Code v1 ES,Diverse,509985758698.0,High
+991,OPT 350M Instruct Code v1 ES,Diverse,509985743437.0,High
+992,OPT 1.3B Instruct Code v1 ES,Diverse,509985728176.0,High
+993,OPT 2.7B Instruct Code v1 ES,Diverse,509985712915.0,High
+994,OPT 6.7B Instruct Code v1 ES,Diverse,509985702654.0,High
+995,OPT 13B Instruct Code v1 ES,Diverse,509985687393.0,High
+996,OPT 30B Instruct Code v1 ZH,Diverse,509985672132.0,High
+997,OPT 66B Instruct Code v1 ZH,Diverse,509985656871.0,High
+998,OPT 175B Instruct Code v1 ZH,Diverse,509985641610.0,High
+999,Pythia 70M Instruct Code v1 ZH,Diverse,509985626349.0,High
+1000,Pythia 160M Instruct Code v1 ZH,Diverse,509985611088.0,High
